@@ -1,4 +1,7 @@
 /*
+
+2019201333
+
 Declarar variáveis float: x1, x2, aux, saldo.
 Atribuir x1=0, x2=0, saldo=0.
 Perguntar o valor recebido da segunda.
